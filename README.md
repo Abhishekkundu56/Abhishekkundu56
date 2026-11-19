@@ -43,8 +43,7 @@ I'm looking for **Data Analyst**, **BI Analyst** or **MIS Reporting** roles.
 
 <p>
   <a href="mailto:abhishekkundu056@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhishekkundu056@gmail.com-F5B841?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" /></a>
-  <a href="tel:+918679217518"><img src="https://img.shields.io/badge/Phone-+91_8679217518-0B7A6C?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-kundu-343a2a185"><img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kundu-0B7A6C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+ <a href="https://www.linkedin.com/in/abhishek-kundu-343a2a185"><img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kundu-0B7A6C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
