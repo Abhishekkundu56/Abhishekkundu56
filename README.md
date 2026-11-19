@@ -17,41 +17,38 @@
 
 <br/>
 
-## `> about`
+## `> About`
 
 I'm a data analyst with internship experience at **Kryptora (2025 to 2026)**, where I extracted, cleaned and queried operational datasets using **SQL** and **Python**, then turned them into visuals and reports in **Excel** and **Power BI** for cross-functional teams and leadership.
 
 I'm looking for **Data Analyst**, **BI Analyst** or **MIS Reporting** roles.
 
-## `> projects`
-
-**2 projects completed**
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 1. Vrinda Store
-<!-- Add 1-2 lines here: what data you analyzed and what you found -->
-`Status: Completed`
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-0B7A6C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekkundu56?tab=repositories)
-
-</td>
-    <td width="50%" valign="top">
-
-### 2. TVS Motor Company
-<!-- Add 1-2 lines here: what data you analyzed and what you found -->
-`Status: Completed`
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-F5B841?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Abhishekkundu56?tab=repositories)
-
-</td>
-  </tr>
-</table>
-
-## `> tools`
+## `> Tools`
 
 | Area | Tools |
 |---|---|
-| **Querying** | ![SQL](https://img.shields.
+| **Querying** | ![SQL](https://img.shields.io/badge/SQL-0B7A6C?style=flat-square&logo=postgresql&logoColor=white) |
+| **Analysis** | ![Python](https://img.shields.io/badge/Python-0B7A6C?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-0B7A6C?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-0B7A6C?style=flat-square&logo=jupyter&logoColor=white) |
+| **Dashboards** | ![Power BI](https://img.shields.io/badge/Power_BI-F5B841?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-0B7A6C?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **MIS reporting** | Pivot Tables, VLOOKUP / XLOOKUP, Google Sheets, formula-based reporting |
+
+## `> Github_stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekkundu56&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&icon_color=F5B841&text_color=FFFFFF" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkundu56&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=FFFFFF" height="160" alt="Top languages" />
+</p>
+
+## `> Contact`
+
+<p>
+  <a href="mailto:abhishekkundu056@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhishekkundu056@gmail.com-F5B841?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" /></a>
+  <a href="tel:+918679217518"><img src="https://img.shields.io/badge/Phone-+91_8679217518-0B7A6C?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-kundu-343a2a185"><img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kundu-0B7A6C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishekkundu56&label=Profile%20views&color=0B7A6C&style=for-the-badge" alt="Profile views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0B1220,0F2E3A,0B7A6C&height=110&section=footer" width="100%" alt="" />
