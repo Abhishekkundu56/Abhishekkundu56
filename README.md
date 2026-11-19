@@ -1,3 +1,4 @@
+<img src="banner_animated.gif" alt="Abhishek Kundu – Data Analyst" width="100%">
 <div align="center">
 
 <img src="banner.svg" alt="Abhishek Kundu – Data Analyst" width="100%">
